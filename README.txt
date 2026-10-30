@@ -1,5 +1,1 @@
-KOICOIN website prototype — rooms-first edition
-Open index.html in a browser. All room photography is included locally.
-Navigation: ROOMS / EVENTS / CONTACT / RESERVE.
-Reservation is a demonstration only: it prepares an email draft, not a live booking.
-Replace the mailto placeholder with your approved booking endpoint before launch.
+KOICOIN GitHub Pages: Upload index.html and assets folder to repository root. Settings > Pages > Deploy from main / root. Room photos are the seven supplied real photographs. Hero background is an edited architecture image without baked-in center text. Reservations remain a demonstration only.
